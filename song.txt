@@ -9,9 +9,4 @@ Shield by shield
 Side by side
 We're marching into destiny
 
-****************************
-=======
-from the lines 
-shield by shield 
 
->>>>>>> e6964177be047c6725cf8f4de32c252ba3f8654f
